@@ -57,6 +57,12 @@ The for tested models produced following results:
 |random forest      |0.723404|0.640996|
 
 
+- all evaluation values are relatively low
+- random forest classifier has the best prediction scores in accuracy and f1
+- logistic regression and naive bayes classifier show the exact same values in accuracy and f1
+- gradient boost tree classifier has the lowest accuracy but the second highest f1 score
+
+
 <a id='license'></a>
 ## Licensing, Authors and Acknowledgements
 
