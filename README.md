@@ -1,4 +1,6 @@
 # Udacity - Data Scientist Nanodegree Program
+
+For more information take a look at the corresponding [blog post](https://medium.com/@grinsecat/predicting-user-churn-of-a-fictional-music-plattform-with-pyspark-ffc7fa98f31b)
 ## Project - Sparkify
 
 - [Installations](#inst)
